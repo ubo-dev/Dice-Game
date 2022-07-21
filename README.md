@@ -1,2 +1,2 @@
-# Pig-Game
- simple pig game
+# Dice-Game
+ simple dice game
